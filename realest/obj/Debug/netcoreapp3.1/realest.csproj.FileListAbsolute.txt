@@ -1,0 +1,14 @@
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.exe
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.deps.json
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.runtimeconfig.json
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.runtimeconfig.dev.json
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.dll
+C:\Users\Higgs\source\repos\realest\realest\bin\Debug\netcoreapp3.1\realest.pdb
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.Form1.resources
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.csproj.GenerateResource.cache
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.AssemblyInfoInputs.cache
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.AssemblyInfo.cs
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.csproj.CoreCompileInputs.cache
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.dll
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.pdb
+C:\Users\Higgs\source\repos\realest\realest\obj\Debug\netcoreapp3.1\realest.genruntimeconfig.cache
